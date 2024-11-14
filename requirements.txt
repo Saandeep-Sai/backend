@@ -1,0 +1,5 @@
+Django
+qrcode
+Pillow
+django-cors-headers
+pymongo
